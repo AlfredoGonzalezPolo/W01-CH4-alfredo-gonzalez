@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: "Nunito", sans-serif;
+  margin: 0;
+  width: 100%;
+}
+
+.block__section-images {
+  display: flex;
+}
+
+.section-images1 {
+  display: flex;
+  flex: 1;
+  height: 200px;
+  width: 400px;
+}
+
+.section-images1 {
+  display: flex;
+  flex: 1;
+  height: 200px;
+  width: 400px;
+}
+
+.section-images1 {
+  display: flex;
+  flex: 1;
+  height: 200px;
+  width: 400px;
+}
